@@ -20,11 +20,6 @@ sudo ./bootstrap.sh --prefix=/usr/local/lib/boost
 ls b*  
 Boost库是一个可移植、提供源代码的C++库，作为标准库的后备，是C++标准化进程的开发引擎之一  
 
-
-#### 3. ./运行linux文件
-可以运行.cpp文件
-./ name.cpp
-
 #### 4.更改文件权限
 chmod 777  文件或目录  
 
