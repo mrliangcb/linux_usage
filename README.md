@@ -1,8 +1,8 @@
-###1.安装deb包
+#1.安装deb包
 sudo dpkg -i XXXX.deb
 
 
-###2.安装boost
+##2.安装boost
 https://blog.csdn.net/xuehuafeiwu123/article/details/78611203
 
 https://www.boost.org/users/history/version_1_69_0.html
