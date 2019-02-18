@@ -33,6 +33,8 @@ gzip -d all.gz
 gunzip all.gz  
 tar -xzf all.tar.gz  
 
+
+
 #### 7.wget用法：  
 wget http://www.linuxsense.org/xxxx/xxx.tar.gz url地址
 -b：后台下载，Wget默认的是把文件下载到当前目录。
@@ -41,6 +43,9 @@ wget http://www.linuxsense.org/xxxx/xxx.tar.gz url地址
 -r 递归下载
 
 
+#### 8.用gedit编辑过的.py文件 会把他改成了text文件类型
+如果用vim改.py文件就不会改变
 
+#### 9.
 
 
