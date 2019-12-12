@@ -46,6 +46,8 @@ wget http://www.linuxsense.org/xxxx/xxx.tar.gz url地址
 #### 8.用gedit编辑过的.py文件 会把他改成了text文件类型
 如果用vim改.py文件就不会改变
 
-#### 9.
+#### 9.CPU用量
+top  命令是实时变化的  
+
 
 
